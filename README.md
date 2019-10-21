@@ -14,7 +14,7 @@ sudo docker rmi -f //imageName//
 ```
 ### To create image 
 ```
-sudo docker build -t //imageName//
+sudo docker build -t //imageName// .
 ```
 ### To create container
 ```
